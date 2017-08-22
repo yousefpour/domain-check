@@ -42,9 +42,9 @@ Output:
 
 Output:
 
-	Domain                              Registrar                                      Status   Expires     Days Left
-	----------------------------------- ---------------------------------------------- -------- ----------- ---------
-	nic.ir                              IRNIC                                          Valid    24-may-2020   1006
+	Domain                              Registrar      Status   Expires     Days Left
+	------------------------------- ----------------- -------- ----------- ---------
+	nic.ir                              IRNIC          Valid    24-may-2020   1006
 
 …or…
 
