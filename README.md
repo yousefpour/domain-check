@@ -36,6 +36,24 @@ Output:
 	nixcraft.info                       oDaddy.com Inc. ( Valid    26-Jun-2009   675
 	nixcraft.net                        GODADDY.COM, INC. Valid    11-dec-2009   843  
 
+…or…
+
+	$ domain-check -d nic.ir
+
+Output:
+
+	Domain                              Registrar                                      Status   Expires     Days Left
+	----------------------------------- ---------------------------------------------- -------- ----------- ---------
+	nic.ir                              IRNIC                                          Valid    24-may-2020   1006
+
+…or…
+
+	$ domain-check -d nic.ir -l
+
+Output:
+
+	1006
+
 ## Quick installation
 Use `git clone` command to download and install domain-check script:
 
