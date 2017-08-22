@@ -57,6 +57,6 @@ Output:
 ## Quick installation
 Use `git clone` command to download and install domain-check script:
 
-	$ git clone git@github.com:ashworthconsulting/domain-check.git
+	$ git clone git clone https://github.com/yousefpour/domain-check.git
 	$ chmod +x domain-check
-	$ ./domain-check -d google.com
+	$ ./domain-check -d nic.ir
